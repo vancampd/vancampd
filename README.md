@@ -14,13 +14,13 @@ I am a self-starter, have a passion for detail, and am a recent bootcamp graduat
 </br>
 </br>
 <div align='center'>
-  Technologies I use: </br> </br>
+  :computer: Technologies I use </br> </br>
   React  |  JavaScript  |  Node  |  Express  |  HTML5  |  SCSS |  CSS3  |  MySQL  |  Postman  |  VS Code
  </div>
 </br>
 </br>
 <div align='center'>
-  Get in touch </br> </br>
+  :mailbox_with_mail: Get in touch </br> </br>
   <a href='https://www.linkedin.com/in/daniel-van-camp/'>LinkedIn</a>   |   <a href='mailto:vancampdj@gmail.com'>email</a>
 </div>
 
