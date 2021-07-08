@@ -2,9 +2,8 @@
 
 I am a self-starter, have a passion for detail, and am a recent bootcamp graduate  :mortar_board:. I love learning and applying knowledge through complex problems and am on a mission :rocket: to learn everything I can about computer science.
 
-🔭 I’m currently waiting on the grade for my final project. Once I recieve feedback the repository will be public. I am keeping it private for now because I am giving my instructors access to an API key.
-
 🌱 My list of things to study next includes: 
+-  Next.js
 -  TypeScript 
 -  Improving my understanding of Relational and Non-Relational Databases 
 -  Data Structures and Algorithms
