@@ -1,12 +1,10 @@
 ### Hi there 👋. I'm Danny, a full-stack developer.
 
-I am a self-starter, have a passion for detail, and am a recent bootcamp graduate  :mortar_board:. I love learning and applying knowledge through complex problems and am on a mission :rocket: to learn everything I can about computer science.
+I am a self-starter, have a passion for detail, and am always working to improve. I made the career change into software development in July of 2021 and since have worked on a variety of applications, primarily using React JS and Node JS.
 
 🌱 My list of things to study next includes: 
--  Next.js
--  TypeScript 
--  Improving my understanding of Relational and Non-Relational Databases 
--  Data Structures and Algorithms
+-  Remix vs Next JS (React SSR)
+-  React Query
 
 :books: I am currently reading Douglas Crockford's JavaScript: The Good Parts
 
@@ -16,7 +14,7 @@ I am a self-starter, have a passion for detail, and am a recent bootcamp graduat
 </br>
 <div align='center'>
   :computer: Technologies I use </br> </br>
-  React  |  JavaScript  |  Node  |  Express  |  HTML5  |  SCSS |  CSS3  |  MySQL  |  Postman  |  VS Code
+  React  |  JavaScript  |  TypeScript  |  Node  |  Express  |  HTML5  |  SCSS |  CSS3  |  MySQL  |  Postman  |  VS Code  |  CSS-in-JS  |  Next JS  |  Auth0  |  Docker  |  AWS Cloud Services  |  Google Maps API  |  Recharts  |  Redis  |  Web Sockets
  </div>
 </br>
 </br>
