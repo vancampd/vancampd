@@ -6,8 +6,6 @@ I am a self-starter, have a passion for detail, and am always working to improve
 -  Remix vs Next JS (React SSR)
 -  React Query
 
-:books: I am currently reading Douglas Crockford's JavaScript: The Good Parts
-
 :dog: I got a puppy during the pandemic and love going to parks or spending time with her.
 </br>
 </br>
