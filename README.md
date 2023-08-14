@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Danny, a full-stack developer.
 
-I am a self-starter, have a passion for detail, and am always working to improve. I made the career change into software development in July of 2021 and since have worked on a variety of applications, primarily using React JS and Node JS.
+I am a self-starter, have a passion for detail, and am always working to improve. I made the career change into software development in July 2021. I have worked on a variety of applications over the past two years, primarily using React JS and Node JS.
 
 🌱 My list of things to study next includes: 
 -  Remix vs Next JS (React SSR)
