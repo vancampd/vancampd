@@ -1,30 +1,34 @@
-### Hi there 👋. I'm Danny, a full-stack engineer and engineering manager.
+## 👋 Hi there, I'm Danny.
+I'm a full-stack software engineer with 5+ years of professional experience building and maintaining customer-facing applications using React, TypeScript, Node.js, and AWS.
 
-I lead development across multiple applications and repositories, while still working hands-on across the stack. My background is in React and Node.js, and I’ve built and maintained systems end-to-end across frontend, backend, and AWS.
+Most recently, I was a Manager / Full-Stack Engineer at Thryv, where I led engineering efforts across 8 applications serving approximately 22,000 monthly active users and 40,000 business locations. While managing and mentoring engineers, I remained hands-on with application development, architecture, code reviews, and production support.
 
-I focus on building reliable systems, keeping things simple, and making it easy for teams to ship and maintain code.
+### What I've worked on
+- Building full-stack applications with React, TypeScript, Node.js, and MySQL
+- Developing complex frontend workflows and integrating third-party APIs
+- Designing asynchronous backend processes and real-time application updates
+- Implementing authentication and secure multi-tenant integrations
+- Improving application reliability, testing, and CI/CD workflows
+- Mentoring engineers and collaborating across product and engineering teams
+  
+### Technologies
 
-**What I work on:**
-</br>
-- Leading development across multiple applications and repos
-- Building full-stack features (React, Node, MySQL)
-- Designing and maintaining systems on AWS (ECS, Lambda, AppSync)
-- Improving code quality, deployment workflows, and team processes
+**Frontend:** React · TypeScript · JavaScript · TanStack Query · HTML · CSS
 
-**Tech I use regularly:**
-<br/>
-React · TypeScript · Node.js · Express · MySQL · AWS (ECS, Lambda, AppSync) · Docker · Auth0 · TanStack Query · WebSockets · Redis
+**Backend:** Node.js · Express · REST APIs · WebSockets · MySQL · Redis
 
-**Currently focused on:**
-<br/>
-- Building systems that handle real-world usage without slowing down
-- Designing reliable background processes and real-time updates
-- Improving how teams ship and maintain code
+**Cloud & DevOps**: AWS · Docker · GitHub Actions · CI/CD
+
+**Testing & Security:** Jest · React Testing Library · MSW · Auth0 · JWT
+
+### Projects
+Most of my recent engineering work has been on proprietary production applications. The public repositories on my profile primarily contain projects I built before beginning my professional engineering career.
+
+Workspace — A full-stack marketplace application built as my BrainStation bootcamp capstone, using React, Node.js, Express, and JWT authentication. The repository includes a modernization roadmap reflecting what I've learned through professional engineering experience.
 
 :mailbox_with_mail: **Get in touch** 
 </br>
 <a href='https://www.linkedin.com/in/daniel-van-camp/'>LinkedIn</a>   |   <a href='mailto:vancampdj@gmail.com'>email</a>
-
 <!--
 **vancampd/vancampd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
