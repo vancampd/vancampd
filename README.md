@@ -24,7 +24,7 @@ Most recently, I was a Manager / Full-Stack Engineer at Thryv, where I led engin
 ### Projects
 Most of my recent engineering work has been on proprietary production applications. The public repositories on my profile primarily contain projects I built before beginning my professional engineering career.
 
-Workspace — A full-stack marketplace application built as my BrainStation bootcamp capstone, using React, Node.js, Express, and JWT authentication. The repository includes a modernization roadmap reflecting what I've learned through professional engineering experience.
+**Workspace** — A full-stack marketplace application built as my BrainStation bootcamp capstone, using React, Node.js, Express, and JWT authentication. The repository includes a modernization roadmap reflecting what I've learned through professional engineering experience.
 
 :mailbox_with_mail: **Get in touch** 
 </br>
